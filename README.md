@@ -177,6 +177,23 @@ Hi, I'm Trilokinath Chaubey!
   </a>
 </p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
+
+<a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=TRex-game-using-facial-recognition&theme=dark" />
+</a>
+
+<a href="https://github.com/hrugved06/Discbot_ai">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Discbot_ai&theme=dark" />
+</a>
+
+<a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Face-Blurring-and-Deblurring&theme=dark" />
+</a>
+
+<a href="https://github.com/hrugved06/ML-DL-Projects">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=ML-DL-Projects&theme=dark" />
+</a>
 
 
 
