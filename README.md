@@ -202,6 +202,11 @@ Hi, I'm Trilokinath Chaubey!
   </a>
 
 
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
 
 <!----- <a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Face-Blurring-and-Deblurring&theme=dark" />
