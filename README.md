@@ -201,9 +201,6 @@ Hi, I'm Trilokinath Chaubey!
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trapti7248/Trapti7248/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
-</p>
 
 <!----- <a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Face-Blurring-and-Deblurring&theme=dark" />
