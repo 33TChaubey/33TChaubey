@@ -199,11 +199,11 @@ Hi, I'm Trilokinath Chaubey!
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Django_Zomato_Clone&theme=dark" />
 </a>
 
-<a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
+<----- <a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Face-Blurring-and-Deblurring&theme=dark" />
 </a>
 
 <a href="https://github.com/hrugved06/ML-DL-Projects">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=ML-DL-Projects&theme=dark" />
-</a>
+</a> ----->
 
