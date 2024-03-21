@@ -191,18 +191,16 @@ Hi, I'm Trilokinath Chaubey!
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
-<p align="center">
+
   <a href="https://github.com/hrugved06/Discbot_ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Django-Car-Rental-Website&theme=radical" alt="Django Zomato Clone Repo" />
   </a>
-</p>
 
 
-<p align="center">
   <a href="https://github.com/hrugved06/Discbot_ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Django_Zomato_Clone&theme=radical" alt="Django Zomato Clone Repo" />
   </a>
-</p>
+
 
 
 <!----- <a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
