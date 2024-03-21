@@ -177,24 +177,6 @@ Hi, I'm Trilokinath Chaubey!
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
-
-<a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=TRex-game-using-facial-recognition&theme=dark" />
-</a>
-
-<a href="https://github.com/hrugved06/Discbot_ai">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Discbot_ai&theme=dark" />
-</a>
-
-<a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Face-Blurring-and-Deblurring&theme=dark" />
-</a>
-
-<a href="https://github.com/hrugved06/ML-DL-Projects">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=ML-DL-Projects&theme=dark" />
-</a>
-
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
@@ -204,4 +186,24 @@ Hi, I'm Trilokinath Chaubey!
 
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=33tchaubey&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
+
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
+
+<a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Django-Car-Rental-Website&theme=dark" />
+</a>
+
+<a href="https://github.com/hrugved06/Discbot_ai">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Django_Zomato_Clone&theme=dark" />
+</a>
+
+<a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Face-Blurring-and-Deblurring&theme=dark" />
+</a>
+
+<a href="https://github.com/hrugved06/ML-DL-Projects">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=ML-DL-Projects&theme=dark" />
+</a>
 
