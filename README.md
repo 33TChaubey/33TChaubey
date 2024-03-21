@@ -33,7 +33,7 @@ Hi, I'm Trilokinath Chaubey!
 </pre>
 <hr>
 
-## 🤝 Connect with me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 <p align="center">
 	<a href="mailto:chaubeytn2103@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/Trilokinathchaubey/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
