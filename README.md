@@ -193,12 +193,12 @@ Hi, I'm Trilokinath Chaubey!
 
 
 
-  <a href="https://github.com/hrugved06/Discbot_ai">
+  <a href="https://github.com/33TChaubey/Django-Car-Rental-Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Django-Car-Rental-Website&theme=radical" alt="Django Car Rental Website Repo" />
   </a>
 
 
-  <a href="https://github.com/hrugved06/Discbot_ai">
+  <a href="https://github.com/33TChaubey/Django_Zomato_Clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Django_Zomato_Clone&theme=radical" alt="Django Zomato Clone Repo" />
   </a>
 
