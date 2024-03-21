@@ -195,9 +195,15 @@ Hi, I'm Trilokinath Chaubey!
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Django-Car-Rental-Website&theme=dark" />
 </a>
 
-<a href="https://github.com/hrugved06/Discbot_ai">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Django_Zomato_Clone&theme=dark" />
-</a>
+<p align="center">
+  <a href="https://github.com/hrugved06/Discbot_ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Django_Zomato_Clone&theme=radical" alt="Django Zomato Clone Repo" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trapti7248/Trapti7248/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+</p>
 
 <!----- <a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=33tchaubey&repo=Face-Blurring-and-Deblurring&theme=dark" />
