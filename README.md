@@ -5,7 +5,7 @@ Hi, I'm Trilokinath Chaubey!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/33tchaubey">
 		<img src="https://komarev.com/ghpvc/?username=33tchaubey&label=Profile%20views&color=0e75b6&style=flat" alt="33tchaubey" />
 	</a>
 	<a href="https://github.com/33tchaubey">
